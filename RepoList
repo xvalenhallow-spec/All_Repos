@@ -1,0 +1,8 @@
+FNTD2:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xvalenhallow-spec/FNTD2/refs/heads/main/FN"))()
+
+PokemonBB:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xvalenhallow-spec/PBB/refs/heads/main/pbb"))()
+
+PullALuckyFish:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xvalenhallow-spec/PALF/refs/heads/main/palf"))()
