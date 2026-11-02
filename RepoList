@@ -1,8 +1,8 @@
-FNTD2:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xvalenhallow-spec/FNTD2/refs/heads/main/FN"))()
+# Format:
+# Display Name|PayloadKey|Red,Green,Blue|Raw GitHub URL
 
-PokemonBB:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xvalenhallow-spec/PBB/refs/heads/main/pbb"))()
+Pokemon Brick Bronze Rebirth|Pokemon Brick Bronze Rebirth|255,139,67|https://raw.githubusercontent.com/xvalenhallow-spec/PBB/refs/heads/main/pbb
 
-PullALuckyFish:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xvalenhallow-spec/PALF/refs/heads/main/palf"))()
+Pull A Lucky Fish|Pull A Lucky Fish|82,181,255|https://raw.githubusercontent.com/xvalenhallow-spec/PALF/refs/heads/main/palf
+
+Five Nights TD 2|Five Nights TD 2|171,113,255|https://raw.githubusercontent.com/xvalenhallow-spec/FNTD2/refs/heads/main/FN
